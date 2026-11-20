@@ -6,7 +6,7 @@ answered there.
 ## How to reach us
 
 - **Email**: [amasmoudi90@gmail.com](mailto:amasmoudi90@gmail.com)
-- **From the Salla theme store**: the Ruwa theme page → Support.
+- **From the Salla theme store**: the Zahiya theme page → Support.
 
 ## To help us help you quickly
 

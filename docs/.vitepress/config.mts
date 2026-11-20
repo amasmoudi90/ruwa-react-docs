@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress';
 // Published on GitHub Pages at https://amasmoudi90.github.io/ruwa-react-docs/
 export default defineConfig({
   base: '/ruwa-react-docs/',
-  title: 'Ruwa',
-  description: 'توثيق ثيم رُوى لمتاجر سلة',
+  title: 'Zahiya',
+  description: 'توثيق ثيم زاهية لمتاجر سلة',
   cleanUrls: true,
   lastUpdated: true,
   head: [['meta', { name: 'theme-color', content: '#0c1a6c' }]],
@@ -13,8 +13,8 @@ export default defineConfig({
       label: 'العربية',
       lang: 'ar',
       dir: 'rtl',
-      title: 'ثيم رُوى',
-      description: 'توثيق ثيم رُوى (Ruwa React) لمتاجر سلة',
+      title: 'ثيم زاهية',
+      description: 'توثيق ثيم زاهية (Zahiya React) لمتاجر سلة',
       themeConfig: {
         nav: [
           { text: 'البداية', link: '/guide/getting-started' },
@@ -50,7 +50,7 @@ export default defineConfig({
         lightModeSwitchTitle: 'الوضع الفاتح',
         darkModeSwitchTitle: 'الوضع الداكن',
         langMenuLabel: 'اللغة',
-        footer: { message: 'ثيم رُوى لمتاجر سلة', copyright: '© Ruwa' },
+        footer: { message: 'ثيم زاهية لمتاجر سلة', copyright: '© Zahiya' },
       },
     },
     en: {
@@ -58,8 +58,8 @@ export default defineConfig({
       lang: 'en',
       dir: 'ltr',
       link: '/en/',
-      title: 'Ruwa Theme',
-      description: 'Documentation of the Ruwa React theme for Salla stores',
+      title: 'Zahiya Theme',
+      description: 'Documentation of the Zahiya React theme for Salla stores',
       themeConfig: {
         nav: [
           { text: 'Getting started', link: '/en/guide/getting-started' },
@@ -87,7 +87,7 @@ export default defineConfig({
           },
         ],
         outline: { label: 'On this page', level: [2, 3] },
-        footer: { message: 'Ruwa theme for Salla stores', copyright: '© Ruwa' },
+        footer: { message: 'Zahiya theme for Salla stores', copyright: '© Zahiya' },
       },
     },
   },

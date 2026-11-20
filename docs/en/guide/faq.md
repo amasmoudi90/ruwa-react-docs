@@ -2,12 +2,12 @@
 
 ## Why doesn't my store colour show?
 
-If you filled in **Brand colour** in Ruwa's settings, it replaces the store colour. Clear it to follow your Salla
+If you filled in **Brand colour** in Zahiya's settings, it replaces the store colour. Clear it to follow your Salla
 store colour.
 
 ## I changed "Dark mode" in the footer section and nothing changed
 
-Ruwa's footer always uses your brand colour; that setting is for the base theme's footer.
+Zahiya's footer always uses your brand colour; that setting is for the base theme's footer.
 
 ## Why is there no email field for a newsletter?
 

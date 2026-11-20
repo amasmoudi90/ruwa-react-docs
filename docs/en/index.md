@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: Ruwa Theme
+  name: Zahiya Theme
   text: A calm beauty and care store
-  tagline: Ruwa is built on Salla's Twilight React engine, in Arabic and English, light and dark, and responsive on every screen.
+  tagline: Zahiya is built on Salla's Twilight React engine, in Arabic and English, light and dark, and responsive on every screen.
   actions:
     - theme: brand
       text: Get started

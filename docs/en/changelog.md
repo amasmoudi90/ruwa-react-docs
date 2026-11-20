@@ -2,7 +2,7 @@
 
 ## Version 1.0 (coming soon)
 
-The first release of Ruwa on Salla's Twilight React engine:
+The first release of Zahiya on Salla's Twilight React engine:
 
 - 19 home page blocks of its own, including a video hero, before and after, a shoppable lookbook and reels, and a
   deal with a countdown.

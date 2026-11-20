@@ -3,14 +3,14 @@
 ## Arabic and English
 
 - Arabic pages read right to left and English pages left to right, on every page and block.
-- Ruwa's untouched Arabic default texts show in English on English pages.
+- Zahiya's untouched Arabic default texts show in English on English pages.
 - When you change an Arabic text, write its English version in the editor's English field too; otherwise your Arabic
   text shows on English pages.
 - English itself is turned on in your Salla store settings.
 
 ## Fonts
 
-Arabic text uses your Salla store's font. The **Ruwa fonts for Latin letters** setting adds a display font for English
+Arabic text uses your Salla store's font. The **Zahiya fonts for Latin letters** setting adds a display font for English
 headings from Google Fonts; turn it off to use your store's font only.
 
 ## Light and dark mode

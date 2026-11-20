@@ -1,6 +1,6 @@
 # Theme settings
 
-## Ruwa: colours, logo and mode
+## Zahiya: colours, logo and mode
 
 | Setting | What it does |
 |---|---|
@@ -9,9 +9,9 @@
 | Soft colour | The calm background colour in some blocks (light pink by default). |
 | Default mode | Light, dark, or the visitor's device setting. |
 | Mode switch in the header | Lets visitors switch between light and dark; their choice is remembered. |
-| Ruwa fonts for Latin letters | A display font for English headings. Arabic keeps your store's font. Turn it off to load no fonts from Google. |
+| Zahiya fonts for Latin letters | A display font for English headings. Arabic keeps your store's font. Turn it off to load no fonts from Google. |
 
-## Ruwa: scrolling top bar
+## Zahiya: scrolling top bar
 
 | Setting | What it does |
 |---|---|
@@ -20,7 +20,7 @@
 | Background colour | The bar's colour. |
 | Animate the texts | Scrolls the texts continuously; pauses on hover. |
 
-## Ruwa: offer popup
+## Zahiya: offer popup
 
 | Setting | What it does |
 |---|---|
@@ -30,11 +30,11 @@
 
 It shows once per visit (browser session).
 
-## Ruwa: header
+## Zahiya: header
 
 | Setting | What it does |
 |---|---|
-| Header layout | **Floating** (Ruwa's floating card), or the base theme's two layouts. |
+| Header layout | **Floating** (Zahiya's floating card), or the base theme's two layouts. |
 | Main menu on one line with a "More" menu | Extra links move into "More" instead of a second line. |
 | Sticky main menu | The header stays visible while scrolling. |
 | Store info, dark top bar, important links | Options for the two base layouts. |
@@ -43,7 +43,7 @@ It shows once per visit (browser session).
 order". If an item has options, "Complete order" goes through the cart page first. On phones, the cart tab in the
 bottom bar opens the cart page.
 
-## Ruwa: footer
+## Zahiya: footer
 
 | Setting | What it does |
 |---|---|
@@ -53,7 +53,7 @@ bottom bar opens the cart page.
 | Large text | Text to show instead of the store's name (optional). |
 | Image inside the text (optional) | A photo shown through the letters of the large text. |
 
-Ruwa's footer always uses your brand colour, so the footer section's "Dark mode" setting doesn't change it. The
+Zahiya's footer always uses your brand colour, so the footer section's "Dark mode" setting doesn't change it. The
 footer menu, payment methods, tax number and Saudi Business Center certificate come from your store settings.
 
 ## Product page and product card
@@ -73,4 +73,4 @@ footer menu, payment methods, tax number and Saudi Business Center certificate c
 ## Base theme settings
 
 The "Home page" options (square photo fit, vertical fixed products, the "All" button) apply to the base theme's
-blocks, not to Ruwa's.
+blocks, not to Zahiya's.
